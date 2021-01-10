@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Somotecan_Marinela_proiectwaContext"
+    }
+  }
+}
